@@ -1,0 +1,2 @@
+api.dlocal.com
+dashboard.dlocal.com

@@ -1,0 +1,15 @@
+staging-broker-app.tradetalk.us
+staging-app.tradetalk.us
+staging-admin-paper.tradetalk.us
+ledgie.staging.tradetalk.us
+ledgie-paper.staging.tradetalk.us
+ledgie-conversion.staging.tradetalk.us
+http://staging-admin.tradetalk.us/admin
+documents.alpaca.markets
+alpaca.markets
+stream.data.alpaca.markets/v2
+staging-paper-api.tradetalk.us
+staging-broker-api.tradetalk.us
+staging-api.tradetalk.us
+data.sandbox.alpaca.markets
+data.tradetalk.us/v2

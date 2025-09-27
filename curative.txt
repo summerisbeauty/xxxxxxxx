@@ -1,0 +1,5 @@
+http://curative.com/eligibility
+hcom-api.prod.curative.com
+login.curative.com
+health-api.prod.curative.com
+health.curative.com

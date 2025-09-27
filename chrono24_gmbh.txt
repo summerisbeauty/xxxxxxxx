@@ -1,0 +1,5 @@
+static.chrono24.com
+cdn3.chrono24.com
+cdn4.chrono24.com
+cdn2.chrono24.com
+www.chrono24.com

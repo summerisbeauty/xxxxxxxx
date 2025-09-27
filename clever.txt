@@ -1,0 +1,7 @@
+api.clever.com
+family.clever.com
+http://clever.com/oauth
+http://clever.com/in/
+apps.clever.com
+schools.clever.com
+clever.com

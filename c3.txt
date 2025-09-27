@@ -1,0 +1,7 @@
+https://secdemo2aws.c3iot.ai/hackerone/reliability/static/console/?auth=b
+https://secdemo2aws.c3iot.ai/hackerone/reliability/
+https://infosecscan.c3.ai/c3/c3/static/console/index.html
+https://c3.ai/test-home-hidden/	URL
+https://c3.ai/products/c3-ai-ex-machina/
+c3exmachina.ai
+c3.aihttps://infosecscan.c3.ai/c3/c3/static/console/index.html

@@ -1,0 +1,5 @@
+app.amplitude.com
+analytics.amplitude.com
+experiment.amplitude.com
+amplitude.com
+http://analytics.amplitude.com/demo

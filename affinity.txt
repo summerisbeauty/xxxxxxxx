@@ -1,0 +1,7 @@
+vpn.affinity.co
+affinity.co
+alliances.affinity.co
+api.affinity.co
+hackerone-hackers-two.affinity.co
+hackerone-hackers.affinity.co
+https://api-docs.affinity.co

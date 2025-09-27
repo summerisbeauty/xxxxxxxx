@@ -1,0 +1,6 @@
+api.cbrehost.com
+hostportal.cbrehost.com
+cbrehost.com
+dev-eos.cbre.com
+app.cbrehost.com
+pjmtech.cbre.com

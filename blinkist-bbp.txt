@@ -1,0 +1,10 @@
+hls.blinkist.io
+d17pjsg7x52x9r.cloudfront.net
+incoming.blinkist.io
+audio.blinkist.io
+www.blinkist.com
+api.blinkist.com
+static.blinkist.com
+static-cdn.blinkist.com
+p.aws.blinkist.com
+sftp.blinkist.io

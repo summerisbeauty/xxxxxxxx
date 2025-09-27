@@ -1,0 +1,7 @@
+buildkiteartifacts.com
+agent.buildkite.com
+graphql.buildkite.com
+buildkiteusercontent.com
+api.buildkite.com
+buildkite.com
+buildkiteassets.com

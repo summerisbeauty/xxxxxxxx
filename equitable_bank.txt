@@ -1,0 +1,8 @@
+www.eqbank.ca
+web-api-stg.eqbank.ca
+statementshare.equitablebank.ca
+secure.eqbank.ca
+secure-staging.eqbank.ca
+my.equitablebank.ca
+join.eqbank.ca
+equitablebank.ca

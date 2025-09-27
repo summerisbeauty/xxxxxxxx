@@ -1,0 +1,13 @@
+https://app.datadoghq.com
+https://api.datadoghq.com
+https://api.cloudcraft.co
+https://app.cloudcraft.co
+https://www.datadoghq.com
+https://www.coscreen.co
+https://vector.dev
+https://www.datadoghq.com
+https://www.datadog.com
+app.datadoghq.com
+app.cloudcraft.co
+api.datadoghq.com
+api.cloudcraft.co

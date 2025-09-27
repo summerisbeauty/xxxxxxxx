@@ -1,0 +1,9 @@
+shopping.copaair.com
+seats.copaair.com
+mytrips.copaair.com
+https://vacations.wingo.com
+copaair.com
+checkin.copaair.com
+beta.copaair.com
+api.copaair.com
+api.copa.com

@@ -1,0 +1,5 @@
+www.avanza.se
+ws.forum.placera.se
+forum.placera.se
+api.forum.placera.se
+217.15.240.0
