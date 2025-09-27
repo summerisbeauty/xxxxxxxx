@@ -1,0 +1,9 @@
+monitor.palantirfoundry.com
+ironclad.palantirfoundry.com
+cruiser.palantirfoundry.com
+cement.palantirfoundry.com
+cement-widgets.palantirfoundry.com
+https://cement.palantirfoundry.com
+https://ironclad.palantirfoundry.com
+https://monitor.palantirfoundry.com
+https://cruiser.palantirfoundry.com

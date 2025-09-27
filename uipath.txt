@@ -1,0 +1,4 @@
+my-snapshot.cloudelements.io
+staging-connect.uipath.com
+staging.uipath.com
+https://h1orch2410.azurewebsites.net/

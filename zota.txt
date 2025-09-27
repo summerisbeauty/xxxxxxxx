@@ -1,0 +1,4 @@
+secure.zotapay-stage.com
+dashboard.zota-stage.com
+api.zotapay-stage.com
+cde-secure.zotapay-stage.com

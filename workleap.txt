@@ -1,0 +1,8 @@
+api.platform.workleap.com
+api.management.workleap.com
+officevibe.workleap.com
+management.workleap.com
+login.workleap.com
+auth.workleap.com
+api.officevibe.workleap.com
+activities.officevibe.workleap.com

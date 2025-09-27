@@ -1,0 +1,7 @@
+www.credify.tech
+credapi.credify.tech
+https://www.credify.tech/merchant/login
+https://www.credify.tech/investordashboard/login
+https://credapi.credify.tech/api/apifunnelorch/v1/lead
+https://investormanagementui.preprod.credify.tech/investor/
+https://appbyphoneui.preprod.credify.tech/app-by-phone/login
