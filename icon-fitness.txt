@@ -1,0 +1,10 @@
+ifit.com
+ifit.com.au
+api.ifit.com
+machines.ifit.com
+shop.ifit.com
+gateway.ifit.com
+gateway-cache.ifit.com
+cdn.ifit.com
+www.ifit.com.au
+www.ifit.com

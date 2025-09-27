@@ -1,0 +1,3 @@
+www.happyfoxchat.com
+https://happyfoxchat.com/a/home
+https://api.happyfoxchat.com/v1/

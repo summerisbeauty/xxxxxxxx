@@ -1,0 +1,6 @@
+www.headspace.com
+work.headspace.com
+my.headspace.com
+checkout.headspace.com
+api.prod.headspace.com
+https://dev.ginger.io/mobile-api/

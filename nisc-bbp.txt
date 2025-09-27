@@ -1,0 +1,6 @@
+nemont.smartwheel.coop
+moqa35047ml.smartwheel.coop
+nemont.stratus.coop
+http://moqa35047ml.ai.stratus.coop/ai-assistant
+moqa35047ml.stratus.coop
+http://nemont.ai.stratus.coop/ai-assistant

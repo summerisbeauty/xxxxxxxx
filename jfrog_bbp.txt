@@ -1,0 +1,2 @@
+jfrog.com
+my.jfrog.com

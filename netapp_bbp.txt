@@ -1,0 +1,12 @@
+upload.netapp.com
+up.netapp.com
+services.netapp.com
+security.netapp.com
+register.netapp.com
+pds.netapp.com
+netapp.com
+net2qa.netapp.com
+mysupport.netapp.com
+devnet.netapp.com
+configbuilder-stg.netapp.com
+activeiq-stg.netapp.com

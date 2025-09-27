@@ -1,0 +1,7 @@
+www.hudapp.com
+prod-realtime.hookupdating.mobi
+prod-cloud.hookupdating.mobi
+https://haveafling.s3.amazonaws.com/
+console.huddatingapp.com
+cdn.hookupdating.mobi
+blog.hudapp.com

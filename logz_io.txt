@@ -1,0 +1,2 @@
+api.logz.io
+app.logz.io

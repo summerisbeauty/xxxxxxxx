@@ -1,0 +1,2 @@
+http://admin.inshur.com/
+https://admin.inshur.com/

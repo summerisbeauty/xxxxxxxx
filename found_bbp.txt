@@ -1,0 +1,3 @@
+app.indie.my
+app.indie.my
+my.staging.found.com

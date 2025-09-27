@@ -1,0 +1,3 @@
+app.lumosity.com
+www.lumosity.com
+static.lumosity.com

@@ -1,0 +1,5 @@
+app.mews.com
+api.mews.com
+api.mews-demo.com
+app.mews-demo.com
+pos.mews.com

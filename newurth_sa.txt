@@ -1,0 +1,6 @@
+platform.bitpesa.co
+developers.bitpesa.co
+api.bitpesa.co
+admin.internal.bitpesa.co
+account-sandbox.bitpesa.co
+account-sandbox.azafinance.com

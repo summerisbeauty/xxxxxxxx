@@ -1,0 +1,8 @@
+www.life360.com
+tile.com
+thetileapp.com
+production.tile-api.com
+backend.jiobit.com
+api.life360.com
+api-cloudfront.life360.com
+backend.jiobit.com

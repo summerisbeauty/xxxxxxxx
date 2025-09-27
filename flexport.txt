@@ -1,0 +1,13 @@
+iam.flexport.com
+trade.flexport.com
+origin.flexport.com
+beta.wms.flexport.com
+customs.flexport.com
+us.wms.flexport.com
+web.transmissionapp.com
+api.flexport.com
+login.flexport.com
+portal.flexport.com
+core.flexport.com
+dispatch.flexport.com
+app.flexport.com

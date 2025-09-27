@@ -1,0 +1,9 @@
+www.prod.wifiportal.extendedstayamerica.com
+www.prod.wifiadminportal.extendedstayamerica.com
+us-west-2.esa.hotelkeyapp.com
+push.us-west-2.esa.hotelkeyapp.com
+https://www.prod.wifiportal.extendedstayamerica.com/buyup
+https://rdweb-extendedstay.msappproxy.net/rdweb/webclient/index.html
+esa.hotelkeyapp.com
+esa-admin.hotelkeyapp.com
+00.us-west-2.esa.hotelkeyapp.com

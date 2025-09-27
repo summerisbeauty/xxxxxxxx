@@ -1,0 +1,5 @@
+api.us.test.highnoteplatform.com
+dashboard.highnoteplatform.com
+auth.highnoteplatform.com
+https://storage.googleapis.com/highnote-card-viewer-example/checkout/index.html
+cdn.highnote.com

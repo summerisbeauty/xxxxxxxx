@@ -1,0 +1,4 @@
+https://platform.sandboxfiri.com
+https://api.sandboxfiri.com
+https://graph.sandboxfiri.com
+https://auth.sandboxfiri.com

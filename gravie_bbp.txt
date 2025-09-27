@@ -1,0 +1,9 @@
+admin-api.gravie.com
+admin.gravie.com
+employer-api.gravie.com
+employer.gravie.com
+gravie.com
+member-api.gravie.com
+member.gravie.com
+mobileapi-prd.prd.gravie.com
+partner-api.gravie.com

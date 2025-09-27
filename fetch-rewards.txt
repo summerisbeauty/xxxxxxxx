@@ -1,0 +1,7 @@
+gateway.fetch.com
+partners-gateway.fetch.com
+prod-websocket-event-service.fetch.com
+dashboard.fetch.com
+support-dashboard.fetch.com
+receiptreview.fetch.com
+fetch.com
