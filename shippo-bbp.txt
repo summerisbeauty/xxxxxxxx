@@ -1,0 +1,8 @@
+api.goshippo.com
+www.goshippo.com
+deliver.goshippo.com
+app.goshippo.com
+service.goshippo.com
+goshippo.com
+portal.goshippo.com
+apps.goshippo.com

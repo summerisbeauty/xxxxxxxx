@@ -1,0 +1,10 @@
+www.tickmill.com
+social.tickmill.com
+payments.tickmill.com
+partners-payments.tickmill.com
+npayments5-backoffice.tickmill.com
+npayments4-backoffice.tickmill.com
+npayments3-backoffice.tickmill.com
+npayments2-backoffice.tickmill.com
+npayments1-backoffice.tickmill.com
+my.tickmill.com

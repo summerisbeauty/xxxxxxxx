@@ -1,0 +1,2 @@
+api.revenuecat.com
+app.revenuecat.com

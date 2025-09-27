@@ -1,0 +1,9 @@
+rtc.prd.synthesia.io
+https://upload.api.synthesia.io
+https://synthesia.io
+https://synthesia-ttv-data.s3.amazonaws.com
+https://share.synthesia.io
+https://app.synthesia.io
+https://api.synthesia.io
+https://api.prd.synthesia.io
+api-static.prd.synthesia.io

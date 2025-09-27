@@ -1,0 +1,6 @@
+www.redislabs.com
+www.redis.com
+redis.io
+http://cloud.redis.io
+app.redislabs.com
+api.redislabs.com

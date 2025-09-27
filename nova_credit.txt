@@ -1,0 +1,6 @@
+static.novacredit.com
+ind-api.novacredit.com
+hello.novacredit.com
+dashboard.novacredit.com
+api.novacredit.com
+18.232.214.208

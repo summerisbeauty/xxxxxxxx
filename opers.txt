@@ -1,0 +1,5 @@
+student-exemption-env3.opers.org
+member-env3.opers.org
+employertest.opers.org
+content-test.opers.org
+env3.opers.org

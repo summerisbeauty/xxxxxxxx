@@ -1,0 +1,16 @@
+ws.api.fs.testnet.paradigm.trade
+api.fs.testnet.paradigm.trade
+ws.testnet.paradigm.trade
+rest.testnet.paradigm.trade
+api.testnet.paradigm.trade
+admin.testnet.paradigm.trade
+app.testnet.paradigm.trade
+paradigm.co
+fs.testnet.paradigm.trade
+ws.api.testnet.paradigm.trade
+data.testnet.paradigm.trade
+status.testnet.paradigm.trade
+cftest.testnet.paradigm.trade
+cfapi.testnet.paradigm.trade
+testnet.paradigm.trade
+www.testnet.paradigm.trade

@@ -1,0 +1,3 @@
+https://journey-playground.idsec-stg.com/journey-playground/?client_id=9b40od94qi1yhtbjll6oe&journey_id=capture-the-flag-embedded
+https://sso-playground.idsec-stg.com/sso-playground/?clientid=_csrwpyrvv2kj4s6try8e&testjourneyid=capture-the-flag-sso
+http://portal.idsec-stg.com

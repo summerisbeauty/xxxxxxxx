@@ -1,0 +1,5 @@
+notion.id
+api.notion.com
+mail.notion.so
+notion.so/api/v3
+calendar.notion.so

@@ -1,0 +1,2 @@
+https://api.pinata.cloud
+https://app.pinata.cloud

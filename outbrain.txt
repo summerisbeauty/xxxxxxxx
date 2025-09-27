@@ -1,0 +1,16 @@
+www.zemanta.com
+www.vi.ai
+www.outbrain.com
+widgets.outbrain.com
+traffic.outbrain.com
+tr.outbrain.com
+sync.outbrain.com
+paid.outbrain.com
+oneapi.zemanta.com
+one.zemanta.com
+odb.outbrain.com
+my.outbrain.com
+mv.outbrain.com
+dsp.outbrain.com
+docs.vi.ai
+api.outbrain.com

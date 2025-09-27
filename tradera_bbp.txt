@@ -1,0 +1,2 @@
+app-api.tradera.com
+www.tradera.com

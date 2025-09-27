@@ -1,0 +1,4 @@
+oryapis.com
+ory.sh
+console.ory.sh
+http://ory.sh/docs

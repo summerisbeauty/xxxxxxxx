@@ -1,0 +1,7 @@
+trade.ripio.com
+rpchatbot-backend.ripio.com
+kyc.ripio.com
+auth.ripio.com
+defi.ripio.com
+card-ar.ripio.com
+app.ripio.com

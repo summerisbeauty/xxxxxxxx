@@ -1,0 +1,6 @@
+https://app.sendcloud.com
+https://panel.sendcloud.sc
+https://account.sendcloud.com
+dev.sendcloud.sc
+static.sendcloud.sc
+https://tracking.eu-central-1-0.sendcloud.sc

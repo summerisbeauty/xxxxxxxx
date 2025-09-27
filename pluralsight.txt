@@ -1,0 +1,7 @@
+pluralsightone.org
+acloud.guru
+app.pluralsight.com
+www.pluralsight.com
+verify.acloud.guru
+learn.acloud.guru
+business.acloud.guru

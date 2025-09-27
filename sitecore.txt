@@ -1,0 +1,5 @@
+https://ordercloud.io/
+http://www.sitecore.com
+https://ordercloud-staging.sitecore-staging.cloud
+https://uat-production.ordercloud.io/
+sitecore.com

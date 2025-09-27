@@ -1,0 +1,3 @@
+service2-icmobile.qadev.singlewire.com
+api2-icmobile.qadev.singlewire.com
+admin2-icmobile.qadev.singlewire.com

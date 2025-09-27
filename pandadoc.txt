@@ -1,0 +1,5 @@
+websocket.stg01.sealdocs.com
+signup.stg01.sealdocs.com
+billing.stg01.sealdocs.com
+app.stg01.sealdocs.com
+api.stg01.sealdocs.com

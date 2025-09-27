@@ -1,0 +1,12 @@
+www.thedailybeast.com
+stage.thedailybeast.com
+ptk-prod.thedailybeast.com
+ptk-dev.thedailybeast.com
+kibana.staging.thedailybeast.com
+kibana.prod.thedailybeast.com
+graphql-stage.thedailybeast.com
+graphql-prod.thedailybeast.com
+grafana.prod.thedailybeast.com
+concourse.staging.thedailybeast.com
+concourse.prod.thedailybeast.com
+api-prod.thedailybeast.com

@@ -1,0 +1,6 @@
+wallet.tebex.io
+plugin.tebex.io
+headless.tebex.io
+creator.tebex.io
+checkout.tebex.io
+accounts.tebex.io

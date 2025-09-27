@@ -1,0 +1,16 @@
+www.shi.com
+www.content.shi.com
+servicepro.shi.com
+renewalreminder.shi.com
+https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc
+durango.shi.com
+assetinsights.shi.com
+apiconsole.shi.com
+api.shi.com
+accounts.shi.com
+209.64.202.0
+209.64.142.0
+207.140.191.0
+207.140.149.0
+199.241.105.0
+199.241.104.0

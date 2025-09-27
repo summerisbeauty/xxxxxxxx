@@ -1,0 +1,11 @@
+openapi.pleo.io
+fetch.pleo.io
+external.pleo.io
+bills.pleo.io
+backoffice.pleo.io
+auth.staging.pleo.io
+auth.pleo.io
+app.staging.pleo.io
+app.pleo.io
+api.staging.pleo.io
+api.pleo.io
